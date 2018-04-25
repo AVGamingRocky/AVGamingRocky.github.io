@@ -3,14 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: William Swinhoe-Standen
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: NO REFUNDS!!!
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
-
+avatar: https://cdn.dribbble.com/users/22930/screenshots/3212735/nintendo_controller.gif
 #
 # Flags below are optional
 #
@@ -22,13 +21,13 @@ footer-links:
   facebook:
   flickr:
   github: barryclark/jekyll-now
-  instagram:
+  instagram: https://www.instagram.com/will_swinhoe/?hl=en
   linkedin:
-  pinterest:
+  pinterest: 
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: https://www.youtube.com/channel/UCpy00TixvqLHpzPyazRnq8w?view_as=subscriber
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
