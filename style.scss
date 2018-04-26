@@ -23,11 +23,9 @@ body {
   color: #000000;
 }
 
-.container {
-  margin: 0 auto;
-  max-width: 740px;
-  padding: 0 10px;
-  width: 100%;
+.grid-container {
+  display: grid;
+  grid-template-columns: 80px 200px auto 40px;
 }
 
 h1, h2, h3, h4, h5, h6 {
