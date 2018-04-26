@@ -25,31 +25,15 @@ html {
   background-size: cover;
 }
 
-#rcorners1 {
-    border-radius: 25px;
-    background: #73AD21;
-    padding: 20px; 
-    width: 200px;
-    height: 150px; 
+.container {
+  margin: 0 auto;
+  max-width: 777px;
+  padding: 0 10px;
+  width: 100%;
+  background:rgba(88, 140, 72, 0.63);
+  border-radius: 7px;
 }
 
-#rcorners2 {
-    border-radius: 25px;
-    border: 2px solid #73AD21;
-    padding: 20px; 
-    width: 200px;
-    height: 150px; 
-}
-
-#rcorners3 {
-    border-radius: 25px;
-    background: url(paper.gif);
-    background-position: left top;
-    background-repeat: repeat;
-    padding: 20px; 
-    width: 200px;
-    height: 150px; 
-}
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
