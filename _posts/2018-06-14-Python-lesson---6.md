@@ -8,9 +8,9 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
+    <tdh>Title</th>
     <td>Continuing Python</td>
-    <td>Date</td>
+    <th>Date</th>
     <td>11/06/18</td>
   </tr>
 </table>
@@ -18,16 +18,16 @@ published: true
 
 <table>
   <tr>
-    <td>Starting point:</td>
+    <th>Starting point:</th>
     <td>Start of lesson 4</td>
   </tr>
   <tr>
-    <td>Target for this lesson?</td>
+    <th>Target for this lesson?</th>
     <td>To have completed lesson 5</td>
   </tr>
   <tr>
-    <td>Did I reach my target? 
-(add details to "Lesson Review")</td>
+    <th>Did I reach my target? 
+(add details to "Lesson Review")</th>
     <td> Yes, I passed it</td>
   </tr>
 </table>
@@ -35,10 +35,10 @@ published: true
 
 <table>
   <tr>
-    <td>Lesson Review</td>
+    <th>Lesson Review</th>
   </tr>
   <tr>
-    <td>How did I learn? What strategies were effective? </td>
+    <th>How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
     <td>  
@@ -47,7 +47,7 @@ For exercise 6, some of the questions didn’t really make sense so I had to loo
 Strategies that helped me were the obvious hint buttons and asking a friend, but another one was reading carefully so I understand it fully and well. </td>
   </tr>
   <tr>
-    <td>What limited my learning? Which habits do I need to work on? </td>
+    <th>What limited my learning? Which habits do I need to work on? </h>
   </tr>
   <tr>
     <td>    
@@ -55,7 +55,7 @@ There were a few things that limited my learning, one of which being the fact th
 My only habits I need to work on are the things I have already said, muddling up my code and/ or typing it onto the wrong lines, I feel like I will improve on these habits soon, hopefully sooner rather than later.</td>
   </tr>
   <tr>
-    <td>What will I change for next time? How will I improve my learning?</td>
+    <th>What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
     <td>               
