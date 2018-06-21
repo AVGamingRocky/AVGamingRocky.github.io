@@ -8,9 +8,9 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
+    <th>Title</th>
     <td>William's Wonderful Quest for Python, Continued...</td>
-    <td>Date</td>
+    <th>Date</th>
     <td>17/06/18</td>
   </tr>
 </table>
@@ -18,16 +18,16 @@ published: true
 
 <table>
   <tr>
-    <td>Starting point:</td>
+    <th>Starting point:</th>
     <td>End of lesson 6.</td>
   </tr>
   <tr>
-    <td>Target for this lesson?</td>
+    <th>Target for this lesson?</th>
     <td>To have completed lesson 6 (and maybe 7).</td>
   </tr>
   <tr>
-    <td>Did I reach my target? 
-(add details to "Lesson Review")</td>
+    <th>Did I reach my target? 
+(add details to "Lesson Review")</th>
     <td> Yes.</td>
   </tr>
 </table>
@@ -35,10 +35,10 @@ published: true
 
 <table>
   <tr>
-    <td>Lesson Review</td>
+    <th>Lesson Review</th>
   </tr>
   <tr>
-    <td>How did I learn? What strategies were effective? </td>
+    <th>How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
     <td>
@@ -46,14 +46,14 @@ I am not going to lie, this lesson (lesson 7) was probably the best one yet, it 
 The best strategy I used was being in the moment and concentrating hard, all in all, I made good progress, I had some fun and I learnt quite a bit of stuff about Python.</td>
   </tr>
   <tr>
-    <td>What limited my learning? Which habits do I need to work on? </td>
+    <th>What limited my learning? Which habits do I need to work on? </th>
   </tr>
   <tr>
     <td>
 I really can't say that anything limited my learning, but if I have to say something I belive it was the last section of lesson 7, I was coding and when I pressed run it said I was wrong, I did not understand it at all so I re - coded it and it still was not right so I had to use a hint and I got it right on my fourth try and again that limited my learning because, even though I was flying through this lesson, I still feel like I am still an amatuer at Python and I belive that that is my only habit I need to work on as well.</td>
   </tr>
   <tr>
-    <td>What will I change for next time? How will I improve my learning?</td>
+    <th>What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
     <td>
