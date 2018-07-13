@@ -8,9 +8,9 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
+    <th>Title</th>
     <td>My Quest for Python, Continued...</td>
-    <td>Date</td>
+    <th>Date</th>
     <td>01/07/18</td>
   </tr>
 </table>
@@ -18,16 +18,16 @@ published: true
 
 <table>
   <tr>
-    <td>Starting point:</td>
+    <th>Starting point:</th>
     <td>40%</td>
   </tr>
   <tr>
-    <td>Target for this lesson?</td>
+    <th>Target for this lesson?</th>
     <td>To get to 60% (including hw)</td>
   </tr>
   <tr>
-    <td>Did I reach my target? 
-(add details to "Lesson Review")</td>
+    <th>Did I reach my target? 
+(add details to "Lesson Review")</th>
     <td> Yes </td>
   </tr>
 </table>
@@ -35,10 +35,10 @@ published: true
 
 <table>
   <tr>
-    <td>Lesson Review</td>
+    <th>Lesson Review</th>
   </tr>
   <tr>
-    <td>How did I learn? What strategies were effective? </td>
+    <th>How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
     <td>I was learning quite fast with these exercises because these, to me, were very useful. They weren't hard and they weren’t easy, they were just right for getting it right and learning along with it to. Especially the Battleships one.
@@ -47,7 +47,7 @@ Strategies that helped me were the obvious hint buttons and asking a friend, but
 </td>
   </tr>
   <tr>
-    <td>What limited my learning? Which habits do I need to work on? </td>
+    <th>What limited my learning? Which habits do I need to work on? </th>
   </tr>
   <tr>
     <td>There were a few things that limited my learning, one of which being the fact that python is hard and I cannot understand it fully - yet - but another is how slow I am at coding, I am fast at typing but I can't seem to code as fast.
@@ -55,7 +55,7 @@ My only habits I need to work on are the things I have already said, getting fas
 </td>
   </tr>
   <tr>
-    <td>What will I change for next time? How will I improve my learning?</td>
+    <th>What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
     <td>For next time I will try to code faster because I am very slow, python is complicated, yes, but it can be enjoyable, teach you things and hopefully I will get faster.
